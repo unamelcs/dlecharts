@@ -1,5 +1,5 @@
 {
-  "name": "dlecharts",
+  "name": "dlsugarecharts",
   "version": "1.0.0",
   "description": "echarts vue",
   "main": "lib/echarts.js",
