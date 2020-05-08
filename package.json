@@ -1,0 +1,23 @@
+{
+  "name": "dlecharts",
+  "version": "1.0.0",
+  "description": "echarts vue",
+  "main": "lib/echarts.js",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "vue": "^2.5.2",
+    "echarts": "^4.7.0"
+  },
+  "keywords": [
+    "vue",
+    "echarts"
+  ],
+  "author": "unamelcs",
+  "license": "ISC"
+}
